@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MainApplication<ISIS2603_202510_S5_E2_Eventos_Back>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.edu.uniandes.dse.eventos.MainApplication",
+            "projectName": "ISIS2603_202510_S5_E2_Eventos_Back",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
